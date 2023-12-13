@@ -3,6 +3,10 @@ Hi there, I'm Suryaprakash G - MERN Stack Developer 👋
 ![MERN Stack](https://img.shields.io/badge/Stack-MERN-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
 I'm passionate about building full-stack applications using the MERN (MongoDB, Express.js, React, Node.js) stack.
+## 📊 GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suryaprakash-G26&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suryaprakash-G26&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Skills and Technologies
 
@@ -34,9 +38,7 @@ I'm passionate about building full-stack applications using the MERN (MongoDB, E
 
 
 
-## 📊 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suryaprakash-G26&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Optional: Add more sections like "Featured Repositories," "Languages Used," or anything else you find relevant -->
 
