@@ -1,6 +1,9 @@
-Hi there, I'm Suryaprakash G - MERN Stack Developer 👋
-
-![MERN Stack](https://img.shields.io/badge/Stack-MERN-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+<h1 align="center">Hi 👋, I'm Suryaprakash G</h1>
+<h3 align="center">A passionate Fullstack developer from India</h3>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=suryaprakash-g26&label=Profile%20views&color=0e75b6&style=flat" alt="suryaprakash-g26 views" />
+<img src="https://img.shields.io/badge/Stack-MERN-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" alt="MERN Stack badge" />
+</p>
 
 I'm passionate about building full-stack applications using the MERN (MongoDB, Express.js, React, Node.js) stack.
 ## 📊 GitHub Stats
